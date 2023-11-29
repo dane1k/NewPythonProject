@@ -1,14 +1,10 @@
 # DanekPython
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 Description of your project goes here.
 
 ## Table of Contents
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -18,7 +14,7 @@ Description of your project goes here.
 
    pip install -r requirements.txt
 
-   
+
 2. Navigate to the project directory:
     ```bash
     cd NewPythonProject/DanekPython
