@@ -9,7 +9,7 @@ Discover the project and its source code on GitHub: [NewPythonProject Repository
 
 ## How to Get Started?
 
-To embark on this lunar adventure, follow these steps:
+To embark on this adventure, follow these steps:
 
 1. Install Python 3.11, VSCode, and the required packages listed in `requirements.txt`.
 
