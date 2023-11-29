@@ -8,7 +8,6 @@
     With an intuitive user interface, you can easily create, edit, and delete your articles, making content management a seamless and enjoyable process.
 
 ## Features
-2.
     ```bash
     Article Creation: Share your thoughts and research effortlessly. Create articles right in your browser using a simple interface.
 
