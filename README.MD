@@ -1,42 +1,20 @@
-# DanekPython
+# Cats Horoscope
 
+DanekPython is your personal web journal where you can freely publish articles, share your experiences, and conduct explorations. 
+With an intuitive user interface, you can easily create, edit, and delete your articles, making content management a seamless and enjoyable process.
 
-## About the Project
-1.
-    ```bash
-    DanekPython is your personal web journal where you can freely publish articles, 
-    share your experiences, and conduct explorations. 
-    With an intuitive user interface, you can easily create, edit, and delete your articles, 
-    making content management a seamless and enjoyable process.
+## Where to Find It?
 
-## Features
-2.
-    ```bash
-    Article Creation: Share your thoughts and research effortlessly. 
-    Create articles right in your browser using a simple interface.
+Discover the project and its source code on GitHub: [NewPythonProject Repository](https://github.com/dane1k/NewPythonProject).
 
-    Editing and Deletion: Make changes to your articles at any time.
-    Use the editing feature to refine information or improve the structure of your articles. 
-    Delete articles when needed without unnecessary complexity.
+## How to Get Started?
 
-## Technologies
-3.
-    ```bash
-    DanekPython is built using the Django framework, 
-    providing rapid and efficient deployment of web applications.
-    Thanks to Django, you can easily expand the functionality of your site as you 
-    delve deeper into the world of web development.
+To embark on this lunar adventure, follow these steps:
 
+1. Install Python 3.11, VSCode, and the required packages listed in `requirements.txt`.
 
-## Installation
+2. Clone the Git repository into your development environment.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/dane1k/NewPythonProject.git
+3. Run in terminal `python manage.py runserver`.
 
-   pip install -r requirements.txt
-
-
-2. Navigate to the project directory:
-    ```bash
-    cd NewPythonProject/DanekPython
+For detailed setup and usage information, check out our GitHub repository. 🌙✨
