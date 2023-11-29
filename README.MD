@@ -22,9 +22,10 @@
 ## Technologies
 3.
     ```bash
-    DanekPython is built using the Django framework, providing rapid and efficient deployment of web applications.
-     Thanks to Django, you can easily expand the functionality of your site as you 
-     delve deeper into the world of web development.
+    DanekPython is built using the Django framework, 
+    providing rapid and efficient deployment of web applications.
+    Thanks to Django, you can easily expand the functionality of your site as you 
+    delve deeper into the world of web development.
 
 
 ## Installation
