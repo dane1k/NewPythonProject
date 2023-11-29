@@ -1,4 +1,4 @@
-# Cats Horoscope
+# Django Web Project
 
 DanekPython is your personal web journal where you can freely publish articles, share your experiences, and conduct explorations. 
 With an intuitive user interface, you can easily create, edit, and delete your articles, making content management a seamless and enjoyable process.
